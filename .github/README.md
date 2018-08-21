@@ -1,1 +1,1 @@
-# jekyll-theme-tzm
+# .github/jekyll-theme-tzm
