@@ -34,6 +34,8 @@ Assets are just simple non-html files that are not processed. They are served di
 
 #### How SASS/CSS files works
 
+#### How Javascript Comments works
+
 
 
 
