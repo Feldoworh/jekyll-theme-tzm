@@ -8,7 +8,7 @@ Every directory of this repository contains its README.md for notes and context 
 
 ### Main project files
 
-| Content  | Descrition                                                                                    |
+| Content  | Description                                                                                   |
 |----------|-----------------------------------------------------------------------------------------------|
 | _layouts | The directory that contains Jekyll layouts used by index.md                                   |
 | index.md | [Primary Github Pages publishing file][1] <br> <code>Contains link to a Jekyll _layout</code> |
