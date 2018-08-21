@@ -10,4 +10,4 @@ Every directory of this repository contains its README.md for notes and context 
 
 | Directory | Descrition                                                                  |
 |-----------|-----------------------------------------------------------------------------|
-| index.md  | Primary Github Pages publishing file <br> Contains link to a Jekyll _layout |
+| index.md  | [Primary Github Pages publishing file <br> Contains link to a Jekyll _layout](https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/) |
