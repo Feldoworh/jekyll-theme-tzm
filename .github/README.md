@@ -16,6 +16,14 @@ Every directory of this repository contains its README.md for notes and context 
 [1]:https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/
 
 
+
+
+<pre><code>
+          ┤ _layouts
+index.md ╁┤ _layouts
+          ┤ _layouts
+</code></pre>
+
 <hr>
 
 This Jekyll Project
