@@ -1,4 +1,4 @@
-#_includes is a Jekyll folder
+# _includes is a Jekyll folder
 
 This is third importance directory as it stores reusable HTML parts for Jekyll _layouts.
 Without _includes html layouts in _layouts would feel bloated.
