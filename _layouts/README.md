@@ -5,7 +5,7 @@ This folder is the second importance content after index.md for Github Pages to 
  * later, _layouts/home.html wraps around default.html
 
 
-To tell Jekyll that you want file to be wrapped around with one of the _layouts you need to specify [Front Matter][1] inside it:
+To tell Jekyll that you want <code>.md</code> or <code>.html</code>  file to be wrapped around with one of the _layouts you need to specify [Front Matter][1] inside it:
 <pre><code>
 ---
 layout: randomLayoutNameExample
