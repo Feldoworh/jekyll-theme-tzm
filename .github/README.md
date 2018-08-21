@@ -13,3 +13,5 @@ Every directory of this repository contains its README.md for notes and context 
 | index.md  | [Primary Github Pages publishing file <br> Contains link to a Jekyll _layout][1] |
 
 [1]:https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/
+
+<code>.github/README.md</code> file is based off https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
