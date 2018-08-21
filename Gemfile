@@ -4,3 +4,6 @@
 # https://bundler.io/man/gemfile.5.html
 # https://bundler.io/v1.16/guides/creating_gem.html
 # https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll
+
+source "https://rubygems.org"
+gemspec
