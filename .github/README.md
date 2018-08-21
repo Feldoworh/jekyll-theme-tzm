@@ -8,15 +8,21 @@ Every directory of this repository contains its README.md for notes and context 
 
 ### Main project files <code>index.md ← _layouts ← _includes ← _assets ← _ssas</code>
 
-## How index.md works
+#### How index.md works
 index.md is just a html file, just renamed into .md file, as it can utilize Jekyll Front Matter.
 Jekyll Front Matter works even if renamed to index.html
 
-## How Layouts works
+#### How Layouts works
 index.md is inserted into ./_layouts/home.html (in the place of {{ content }} variable )
 ./_layouts/home.html is inserted into ./_layouts/default.html (in the place of {{ content }} variable )
 
-# How Includes works
+#### How Includes works
+Includes are just html snippets accesible by files in ./_layouts/ and other files processed by Jekyll . 
+These snippets can be utilized using Liquid tags: 
+
+#### How Assets works 
+Assets are just simple non-html files that are not processed. They are served directly.
+
 
 
 
