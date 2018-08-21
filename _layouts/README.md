@@ -3,3 +3,15 @@ This folder is the second importance content after index.md for Github Pages to 
 
  * /index.md file is pointing to _layouts/home.html that wraps it
  * later, _layouts/home.html wraps around default.html
+
+
+To tell Jekyll that you want file to be wrapped around with one of the _layouts you need to specify [Front Matter][1] inside it:
+<pre><code>
+---
+layout: post
+title: Blogging Like a Hacker
+---
+</code></pre>
+ 
+
+[1]:https://jekyllrb.com/docs/frontmatter/
