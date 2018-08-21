@@ -18,11 +18,6 @@ Every directory of this repository contains its README.md for notes and context 
 
 
 
-<pre><code>
-          ┤ _layouts
-index.md ╁┤ _layouts
-          ┤ _layouts
-</code></pre>
 
 <hr>
 
