@@ -6,7 +6,7 @@ Primarly focused to guide The Zeitgeist Movement Chapters into hosting main webs
 
 Every directory of this repository contains its README.md for notes and context explanation, this README.md that you are reading right now is concerned to give a quick overview of the project.
 
-### Main project files index.md<-_layouts<_includes]
+### Main project files <code>index.md<-_layouts<_includes</code>
 
 | Content  | Description                                                                                   |
 |----------|-----------------------------------------------------------------------------------------------|
