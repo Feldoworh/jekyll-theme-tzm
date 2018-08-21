@@ -8,6 +8,15 @@ Every directory of this repository contains its README.md for notes and context 
 
 ### Main project files <code>index.md ← _layouts ← _includes ← _assets ← _ssas</code>
 
+
+| Content  | Description                                                                                   |
+|----------|-----------------------------------------------------------------------------------------------|
+| _layouts | The directory that contains Jekyll layouts used by index.md                                   |
+| index.md | [Primary Github Pages publishing file][1] <br> <code>Contains link to a Jekyll _layout</code> |
+
+[1]:https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/
+
+
 #### How index.md works
 index.md is just a html file, just renamed into .md file, as it can utilize Jekyll Front Matter.
 Jekyll Front Matter works even if renamed to index.html
@@ -26,13 +35,6 @@ Assets are just simple non-html files that are not processed. They are served di
 #### How SASS/CSS files works
 
 
-
-| Content  | Description                                                                                   |
-|----------|-----------------------------------------------------------------------------------------------|
-| _layouts | The directory that contains Jekyll layouts used by index.md                                   |
-| index.md | [Primary Github Pages publishing file][1] <br> <code>Contains link to a Jekyll _layout</code> |
-
-[1]:https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/
 
 
 
