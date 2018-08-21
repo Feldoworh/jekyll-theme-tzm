@@ -13,5 +13,8 @@ title: Blogging Like a Hacker
 ---
 </code></pre>
  
+ 
+ The reason why .\index.md is almost empty and only contains <code>layout: home.html</code> Front Matter - is that index.md is not accessible using <code>layout: home.html</code> Front Matter 
+ 
 
 [1]:https://jekyllrb.com/docs/frontmatter/
