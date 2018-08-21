@@ -16,4 +16,5 @@ Every directory of this repository contains its README.md for notes and context 
 
 
 <hr>
+Tables of the Github Flavored Markdown has been generated using https://www.tablesgenerator.com/markdown_tables
 <code>.github/README.md</code> file is based off https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
