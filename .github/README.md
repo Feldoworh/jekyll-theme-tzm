@@ -17,7 +17,10 @@ Every directory of this repository contains its README.md for notes and context 
 
 <hr>
 
+This Jekyll Project
 * Jekyll project has been generated using <code>jekyll new-theme jekyll-theme-awesome</code> https://jekyllrb.com/docs/themes/#creating-a-gem-based-theme
 * Jekyll Theme is based off https://github.com/jekyll/minima
+
+This README.md
 * Tables of the Github Flavored Markdown has been generated using https://www.tablesgenerator.com/markdown_tables
 * <code>.github/README.md</code> file is based off https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
