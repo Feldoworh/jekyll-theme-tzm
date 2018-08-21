@@ -23,6 +23,7 @@ These snippets can be utilized using Liquid tags:
 #### How Assets works 
 Assets are just simple non-html files that are not processed. They are served directly.
 
+#### How SASS/CSS files works
 
 
 
