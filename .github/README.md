@@ -8,6 +8,6 @@ Every directory of this repository contains its README.md for notes and context 
 
 ### Main project files
 
-| Directory | Descrition                            |
-|-----------|---------------------------------------|
-| index.md  | Primary Github Pages publishing file  |
+| Directory | Descrition                                                                  |
+|-----------|-----------------------------------------------------------------------------|
+| index.md  | Primary Github Pages publishing file <br> Contains link to a Jekyll _layout |
