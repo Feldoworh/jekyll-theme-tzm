@@ -16,7 +16,7 @@ title: Blogging Like a Hacker
  
  The reason why <code>.\index.md</code> is almost empty and only contains <code>layout: home.html</code> Front Matter - is that index.md is not accessible using <code>layout: index</code> Front Matter. 
  
- .\index.md can be empty file and Github Pages will show .\layout\home.html
+ .\index.md can be empty file and Github Pages will show .\layout\home.html<br>
  However without .\index.html file, Github Pages will show 404 not found error.
  
 
