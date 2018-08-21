@@ -1,4 +1,5 @@
 # _includes is a Jekyll folder
+https://jekyllrb.com/docs/includes/
 
 This is third importance directory as it stores reusable HTML parts for Jekyll _layouts.
 
