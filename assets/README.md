@@ -5,7 +5,7 @@ The files stored in this folder can be directly accessed in any .html file of Je
  * /_includes/
  * /index.md
 
-This folder also contains main.scss file that imports .scss stylesheets from [_includes/_sass](/_includes/_sass) folder.
+This folder also contains **main.scss** file that **imports .scss** stylesheets from [_includes/_sass](/_includes/_sass) folder.
 <br><code><br>assets/main.**scss**</code> is a file that is processed by Jekyll and from which <code>/assets/main.**css**</code> is generated,
 for use in:
  * /_layouts/
