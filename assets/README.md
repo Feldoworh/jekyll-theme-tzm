@@ -14,6 +14,7 @@ for use in:
  * /_includes/
  * /index.md
  
+ ### About the _sass folder
  [/_includes/**_sass/**](/_includes/_sass) is mainly a folder that integrates with Jekyll. 
 <br>Files placed inside this folder are possible to access inside other .scss files using Sass <code>@import</code> statements.
 <br>**More about that:** https://jekyllrb.com/docs/assets/#sassscss
